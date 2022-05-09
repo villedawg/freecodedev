@@ -1,0 +1,53 @@
+#main
+{
+    background-color: rgb(145, 132, 101);
+}
+#title
+{
+    text-align: center;
+    text-decoration: wavy;
+
+}
+#img-div
+
+{
+    text-align: center;
+    font-style: italic;
+    
+
+}
+#image
+{
+ 
+image-orientation: initial;
+border-image-repeat: space;
+max-width: 100%;
+height: auto;
+
+}
+img
+{
+    display: flex;
+
+}
+
+
+#img-caption{
+    text-align: center;
+
+}
+#tribute-info{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+
+}
+.div-border{
+    background-origin: padding-box;
+    padding-left: 2px;
+    border-color: rgb(10, 13, 17);
+    border-width: 5px;
+    border-style: solid;
+    flex-direction: row-reverse;
+    
+}
